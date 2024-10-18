@@ -1,4 +1,5 @@
 otpauth://totp/Linkedin:?secret=R3DHA46POYY5E5PXMGQUTLWTN32ULXFD&issuer=Linkedin
+otpauth://totp/GitHub:soterxd?secret=37HP3JY46ZL5TEZB&issuer=GitHub
 otpauth://totp/LinkedIn:angergab%40outlook.com?secret=DFGCVFFLX5OHQNGCOEBXCZEVWLMX3KZ2&issuer=LinkedIn
 otpauth://totp/Google:delphinedutoit66%40gmail.com?secret=v7g2fl7cv7bpuwayg2wayirhypmvegkw&issuer=Google
 otpauth://totp/Google:paolaguanipa62%40gmail.com?secret=gf6ezops4apetkgzupowmimqn3sct4fp&issuer=Google
