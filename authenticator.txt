@@ -1,4 +1,5 @@
 otpauth://totp/michaelbankole:?secret=RBFEMIP7GMJ7BM2X&issuer=michaelbankole
+otpauth://totp/Indeed:dajunren9%40gmail.com?secret=ILXXXBIWEVTRTGB4WO3KVTCXV6LSGYKP&issuer=Indeed
 otpauth://totp/Linkedin:?secret=R3DHA46POYY5E5PXMGQUTLWTN32ULXFD&issuer=Linkedin
 otpauth://totp/GitHub:wattotech?secret=SRO6D5EBFPHFSJCP&issuer=GitHub
 otpauth://totp/GitHub:soterxd?secret=37HP3JY46ZL5TEZB&issuer=GitHub
@@ -17,4 +18,3 @@ otpauth://totp/GitHub:crazycryptom?secret=PQHRJJARSO7UI7LA&issuer=GitHub
 otpauth://totp/Google:dajunren9%40gmail.com?secret=x6uvt35jmjafkdi7wmm5aasxfp5ke2sl&issuer=Google
 otpauth://totp/Namecheap:Marxion?secret=7GRVJMJA5ZZI4DE5YBJNUEEV4BNXWTBU&issuer=Namecheap
 otpauth://totp/MEXC(ca***m%40gmail.com)?secret=ANDQV4DDMXYY7QMP
-otpauth://totp/coinex.com:marxion25%40gmail.com?secret=T3LGLW3X53XKVTXOTGPR3VYDELGFKSE4&issuer=coinex.com
