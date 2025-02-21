@@ -1,4 +1,8 @@
+otpauth://totp/atm:?secret=NQ2X2TSBKE2SY6BOIUSW6LR3H4QVAT3O&issuer=atm
 otpauth://totp/michaelbankole:?secret=RBFEMIP7GMJ7BM2X&issuer=michaelbankole
+otpauth://totp/GitHub:itenidone?secret=HZH4BXUI4E2NGDBP&issuer=GitHub
+otpauth://totp/Google:galeanoanita484%40gmail.com?secret=tugel5mj4vdignfwsh7vjzbvjfifgvrj&issuer=Google
+otpauth://totp/Google:jessymichael022%40gmail.com?secret=pgvnbbwgb5fvg224gmzslhsjxxm2lrb4&issuer=Google
 otpauth://totp/Indeed:dajunren9%40gmail.com?secret=ILXXXBIWEVTRTGB4WO3KVTCXV6LSGYKP&issuer=Indeed
 otpauth://totp/Linkedin:?secret=R3DHA46POYY5E5PXMGQUTLWTN32ULXFD&issuer=Linkedin
 otpauth://totp/GitHub:wattotech?secret=SRO6D5EBFPHFSJCP&issuer=GitHub
